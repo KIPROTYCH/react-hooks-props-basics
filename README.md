@@ -155,7 +155,7 @@ down from the parent component!
 ```jsx
 // BlogContent.js
 console.log(props);
-// => { articleText: "Dear Reader: Bjarne Stroustrup has the perfect lecture oration." }
+// => { articleText: "Dear Reader: Bjarne Stroustrup has a perfect lecture oration." }
 ```
 
 We can add as many additional props as we want by assigning them in the parent
